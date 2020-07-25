@@ -29,7 +29,7 @@ public class LogisticRegressor {
     }
 
     /**
-     * Method used to train the linear regressor
+     * Method used to train the logistic regressor
      *
      * @param data   2d double array of rows of double data
      * @param labels 1d double array of labels
